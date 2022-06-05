@@ -1,7 +1,4 @@
-# reliable-udp-chat
-
-
-Reliable Message Transfer
+# Reliable Message Transfer
 
 For UDP CHAT:
 
